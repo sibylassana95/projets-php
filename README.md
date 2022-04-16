@@ -1,3 +1,3 @@
 # projets-php
-## Algortihme 
+## Algorithme 
 ### Algo traduis en php
